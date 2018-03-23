@@ -21,6 +21,7 @@ namespace SimpleProjectGit
             Console.WriteLine("The surface of the rectangle is : " + rectangle.Surface());
             Console.WriteLine("The perimeter of the rectangle is : " + rectangle.Perimeter());
             Console.ReadKey();
+            Console.WriteLine("Souhaile 3chiri");
         }
     }
 }
