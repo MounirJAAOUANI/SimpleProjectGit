@@ -1,0 +1,5 @@
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\Models\bin\Debug\Models.dll
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\Models\bin\Debug\Models.pdb
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\Models\obj\Debug\Models.dll
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\Models\obj\Debug\Models.pdb

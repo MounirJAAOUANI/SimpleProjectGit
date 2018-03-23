@@ -1,0 +1,9 @@
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\SimpleProjectGit\bin\Debug\SimpleProjectGit.exe.config
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\SimpleProjectGit\bin\Debug\SimpleProjectGit.exe
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\SimpleProjectGit\bin\Debug\SimpleProjectGit.pdb
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\SimpleProjectGit\obj\Debug\SimpleProjectGit.csprojResolveAssemblyReference.cache
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\SimpleProjectGit\obj\Debug\SimpleProjectGit.csproj.CoreCompileInputs.cache
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\SimpleProjectGit\obj\Debug\SimpleProjectGit.exe
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\SimpleProjectGit\obj\Debug\SimpleProjectGit.pdb
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\SimpleProjectGit\bin\Debug\Models.dll
+c:\users\mounir.jaaouani\source\repos\SimpleProjectGit\SimpleProjectGit\bin\Debug\Models.pdb
