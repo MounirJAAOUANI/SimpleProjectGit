@@ -1,12 +1,6 @@
 
 *.lock
 *.ide-wal
-*.ide-wal
-*.ide-wal
-*.ide-wal
-*.ide-wal
-*.ide-wal
-*.ide-wal
-*.ide-wal
-*.ide-wal
 *.ide
+.vs/SimpleProjectGit/v15/Server/sqlite3/storage.ide-wal
+*.ide-wal
