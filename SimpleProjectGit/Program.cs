@@ -11,6 +11,7 @@ namespace SimpleProjectGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Tests begin");
             Rectangle rectangle = new Rectangle();
             Console.WriteLine("Enter the height of the Rectangle : ");
             rectangle.Height = double.Parse(Console.ReadLine());
@@ -20,7 +21,6 @@ namespace SimpleProjectGit
 
             Console.WriteLine("The surface of the rectangle is : " + rectangle.Surface());
             Console.WriteLine("The perimeter of the rectangle is : " + rectangle.Perimeter());
-            Console.WriteLine("Tests begin");
             Console.WriteLine(rectangle.GenerateResult(1,100));
             Console.WriteLine("Tests finished");
             Console.ReadKey();
