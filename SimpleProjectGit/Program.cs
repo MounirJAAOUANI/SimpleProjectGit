@@ -20,8 +20,8 @@ namespace SimpleProjectGit
 
             Console.WriteLine("The surface of the rectangle is : " + rectangle.Surface());
             Console.WriteLine("The perimeter of the rectangle is : " + rectangle.Perimeter());
+            Console.WriteLine(rectangle.GenerateResult(1,100));
             Console.ReadKey();
-            Console.WriteLine("Souhaile GIT");
         }
     }
 }
